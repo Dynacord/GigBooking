@@ -1,0 +1,21 @@
+INFORMATION ABOUT THIRD-PARTY CODE
+
+-----------------------------------------------------------------------------
+This file contains information about third-party code which was used in the development of the Application.
+
+Organization of the file: 
+
+* SOFTWARE CODE 
+* OTHER INFORMATION
+
+=============================================================================
+SOFTWARE CODE
+Information about third-party software code used in the development of the Application.
+=============================================================================
+
+
+ejs 3.0.1
+EJS Embedded JavaScript templates copyright 2112 mde@fleegix.org.
+-----------------------------------------------------------------------
+Distributed under the terms of the Apache License Version 2.0
+-----------------------------------------------------------------------
